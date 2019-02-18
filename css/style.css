@@ -1,0 +1,47 @@
+
+.phone {
+	font-size: 14px;
+	margin-right: 20px;
+	list-style: none;
+	box-sizing: border-box;
+}
+
+.mail {
+	font-size: 14px;
+}
+.image {
+	height: 70px;
+	width: 70px;
+	float: left;
+}
+.header-menu li {
+	float: left;
+
+}
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	padding-right: auto;
+
+}
+.row {
+	margin-left: -15px;
+	margin-right: -15px;
+
+}
+.main-container {
+	background-color: #7db94d;
+	height: 100%;
+	width: 100% 
+
+}
+.text {
+	color: white;
+	padding-top: 20px;
+}
+.form-control {
+  display: block;
+  width: 100%;
+  
+}
